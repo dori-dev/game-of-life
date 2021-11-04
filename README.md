@@ -25,8 +25,8 @@ python3 main.py
 ```
 
 ## You Can Change
-- You can change the WIDTH, HEIGHT, COUNT constant variables to change GUI.
-- You can change the INTERVAL_TIME constant variable for the time interval between each generation.
+- You can change the `WIDTH`, `HEIGHT`, `COUNT` constant variables to change GUI.
+- You can change the `INTERVAL_TIME` constant variable for the time interval between each generation.
 
 
 #
