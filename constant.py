@@ -10,4 +10,4 @@ COUNT = 20
 X_DIST = WIDTH // COUNT
 Y_DIST = HEIGHT // COUNT
 # Time interval between each generation
-INTERVAL_TIME = 0
+INTERVAL_TIME = 0.1
