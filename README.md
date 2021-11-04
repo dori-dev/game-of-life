@@ -31,6 +31,15 @@ python3 main.py
 
 #
 ## Project Codes
-- `main.py`       : main of project.
-- `population.py` : population class.
-- `constant.py`   : all constant variables.
+- `main.py`: main of project codes.
+- `population.py`: population class.
+- `constant.py`: all constant variables.
+
+
+#
+## Links
+
+
+Download Source Code: [Click Here](https://github.com/dori-dev/game-of-life/archive/refs/heads/main.zip)
+
+My Github Acount: [Click Here](https://github.com/dori-dev/)
